@@ -1,5 +1,7 @@
 # Sitecore Parameter buttons
 
+[Rendering Parameters](https://blogs.perficient.com/sitecore/2012/12/03/sitecore-rendering-parameter-templates/)
+
 ## Example : Grid columns
 
 Parameter buttons can be used for setting up a Grid layout. 
