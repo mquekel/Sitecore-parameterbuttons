@@ -1,6 +1,6 @@
 # Sitecore Parameter buttons
 
-[Rendering Parameters](https://blogs.perficient.com/sitecore/2012/12/03/sitecore-rendering-parameter-templates/)
+Sitecore allows the content editor to set the behaviour of a component by offering [Rendering Parameters](https://blogs.perficient.com/sitecore/2012/12/03/sitecore-rendering-parameter-templates/). This feature makes it possible to seperate content and presentation settings, such as the font size, theme or color.
 
 ## Example : Grid columns
 
