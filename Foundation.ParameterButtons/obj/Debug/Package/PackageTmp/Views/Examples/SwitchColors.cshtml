@@ -1,0 +1,13 @@
+﻿@{
+    var color = string.Empty;
+    var renderingContext = Sitecore.Mvc.Presentation.RenderingContext.CurrentOrNull;
+    if (renderingContext != null)
+    {
+        var parameters = renderingContext.Rendering.Parameters;
+        color = parameters["color"];
+    }
+}
+
+<div style="color:@color;">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquet odio eget turpis scelerisque suscipit. Maecenas libero mi, imperdiet pulvinar orci eu, sollicitudin vestibulum orci. Vestibulum egestas urna augue, a vulputate leo blandit at. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque at mollis eros. Vestibulum aliquet leo nisl, eu posuere purus aliquam quis. Duis aliquet lobortis justo, sodales pellentesque risus tincidunt malesuada. Sed ultrices lectus mi, faucibus gravida nunc fermentum sed. Suspendisse eget erat eu lectus malesuada fringilla. Nullam maximus nibh et nisl ullamcorper iaculis. Praesent ut rutrum massa. Mauris condimentum ligula nulla, posuere pharetra ligula molestie sit amet.
+</div>
