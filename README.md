@@ -9,5 +9,5 @@ Parameter buttons can be used for setting up a Grid layout.
 ## Example : Toggle parameter
 
 Parameter buttons can be used for toggling a parameter, such as a color or a theme.
-![alt text](https://raw.githubusercontent.com/mquekel/Sitecore-parameterbuttons/master/TrsYCGWcKK.gif)
+![alt text](https://raw.githubusercontent.com/mquekel/Sitecore-parameterbuttons/master/TrsYCGWcKK.gif | width=200)
 
