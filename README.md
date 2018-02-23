@@ -1,4 +1,4 @@
-# Sitecore-parameterbuttons
+# Sitecore Parameter buttons
 
 ## Example : Grid columns
 
